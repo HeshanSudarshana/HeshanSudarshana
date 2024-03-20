@@ -1,9 +1,12 @@
-### Hi there 👋
 <!--
+### Hi there 👋
+
 <a href="https://github.com/HeshanSudarshana/HeshanSudarshana">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeshanSudarshana&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Heshan's GitHub Stats" />
 </a>
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeshanSudarshana&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)]()
 
 <!--
 **HeshanSudarshana/HeshanSudarshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
